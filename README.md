@@ -6,7 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyesh111" alt="priyesh111" /></a> </p>
 
-- 🔭 I’m currently working on **Blackbugs Technologies**
+- 🔭 I’m currently working on **Gmark Technologies**
+
+- 🔭 I’m previously working on **Blackbugs Technologies**
 
 - 🌱 I’m currently learning **Bloc , Cubit**
 
